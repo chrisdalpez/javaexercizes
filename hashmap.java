@@ -2,7 +2,7 @@
 import java.util.HashMap;
 import java.util.List;
 
-public class Main {
+public class hashmap {
     
     public static void main(String args[]) {
 
